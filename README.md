@@ -3,5 +3,5 @@ https://www.figma.com/design/r5tIGhoed6sO9kMWnhuIC7/01-01?node-id=0-1&p=f&t=9Nb4
 
 (Сам .фиг файл не даёт загрузить, пишет, файл слишком большой, сжатие не помогло)
 
-Сайт выложенный через гит:
+Сайт, выложенный через гит:
 https://timrogozny.github.io/Site_0101/
